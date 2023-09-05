@@ -1,0 +1,19 @@
+table{
+    border: 2px solid black;
+    margin-top: 200px;
+    margin-left: 50px;
+    height: 125px;
+    width: 125px;
+    background-color: violet;
+}
+#outputbox{
+    border: 2px solid rgb(206, 0, 0);
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+}
+button{
+    margin-top: 40px;
+}
+body{
+    background-color:white;
+}
